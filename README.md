@@ -168,4 +168,4 @@ LateUpdate()
 
 ## 📄 License
 
-[MIT](LICENSE) © 2024
+[MIT](LICENSE) © FinnJinEasy0721
